@@ -25,7 +25,6 @@ full-stack developer, ML engineer, homelab enthusiast.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/Basic%2FQBasic-005C99?style=flat-square">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
