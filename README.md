@@ -71,7 +71,7 @@ full-stack developer, ML engineer, homelab enthusiast.
 <p align="center">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
-  <img src="https://img.shields.io/badge/KaTeX-00BFFF?style=flat-square&logo=katex&logoColor=white">
+  <img src="https://img.shields.io/badge/KaTeX-00BFFF?style=flat-square&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/RST-000000?style=flat-square&logo=readthedocs&logoColor=white">
   <img src="https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white">
   <img src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white">
