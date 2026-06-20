@@ -53,9 +53,7 @@ full-stack developer, ML engineer, homelab enthusiast.
   <img src="https://img.shields.io/badge/Zipline-000000?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyPortfolioOpt-000000?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/empyrical-000000?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/yfinance-0066CC?style=flat-square&logo=yahoo&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/yfinance-0066CC?style=flat-square&logo=python&logoColor=white">
 </p>
 
 ## ▸ backend & full-stack
