@@ -17,6 +17,8 @@
 building things with Python & Linux.  
 full-stack developer, ML engineer, homelab enthusiast.
 
+</div>
+
 ## ▸ languages & core
 
 <p align="center">
@@ -39,6 +41,21 @@ full-stack developer, ML engineer, homelab enthusiast.
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
+</p>
+
+## ▸ fintech & quantitative finance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QuantLib-000000?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyAlgoTrade-000000?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Backtrader-000000?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Zipline-000000?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyPortfolioOpt-000000?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/empyrical-000000?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/yfinance-0066CC?style=flat-square&logo=yahoo&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white">
 </p>
 
 ## ▸ backend & full-stack
@@ -48,7 +65,18 @@ full-stack developer, ML engineer, homelab enthusiast.
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+</p>
+
+## ▸ documentation & markup
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/KaTeX-00BFFF?style=flat-square&logo=katex&logoColor=white">
+  <img src="https://img.shields.io/badge/RST-000000?style=flat-square&logo=readthedocs&logoColor=white">
+  <img src="https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white">
+  <img src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white">
 </p>
 
 ## ▸ databases
@@ -79,6 +107,17 @@ full-stack developer, ML engineer, homelab enthusiast.
   <img src="https://img.shields.io/badge/SSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
 </p>
 
+## ▸ cloud & platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+</p>
+
 ## ▸ tools & environment
 
 <p align="center">
@@ -90,3 +129,32 @@ full-stack developer, ML engineer, homelab enthusiast.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
 </p>
+
+---
+
+<!-- Университет и лаборатория -->
+<div align="center">
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="50%" style="padding: 20px; border-radius: 12px; background: rgba(255,255,255,0.02);">
+        <a href="https://en.fa.ru/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_FU_EN-2.png" width="140" alt="Financial University Logo">
+        </a>
+      </td>
+      <td align="center" width="15%" style="padding: 20px; border-radius: 12px; background: rgba(255,255,255,0.02);">
+        <a href="https://github.com/findatalab" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/260332096?s=200&v=4" width="110" alt="Findata Lab Logo" style="border-radius: 16px; border: 2px solid #6C63FF; padding: 4px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-top: 8px; color: #8B8B8B; font-size: 0.85em;">
+        <sub>Financial University</sub>
+      </td>
+      <td align="center" style="padding-top: 8px; color: #8B8B8B; font-size: 0.85em;">
+        <sub>AI Laboratory</sub>
+      </td>
+    </tr>
+  </table>
+</div>
